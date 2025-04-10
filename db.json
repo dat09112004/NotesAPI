@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "API Flutter",
+      "content": "Xử lý API.",
+      "priority": 3,
+      "createdAt": "2024-04-01T10:00:00Z",
+      "modifiedAt": "2024-04-02T12:00:00Z",
+      "tags": ["học tập"],
+      "color": "#2196F3"
+    },
+    {
+      "id": 2,
+      "title": "Tiết kiệm mua đồ điện tử",
+      "content": "Mua card NVIDA RTX 5090",
+      "priority": 2,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": ["cá nhân", "đi chợ"],
+      "color": "#99FF66"
+    },
+     {
+      "id": 3,
+      "title": "Làm việc nhà",
+      "content": "Lau nhà, rửa chén, nấu cơm",
+      "priority": 1,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": ["cá nhân", "công việc"],
+      "color": "#33CCFF"
+    }
+  ]
+}
